@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php $this->load->view('layout/meta'); ?>
-	<title>Home - Hastowo AP Travel</title>
+	<title>Home - Ardi Travel</title>
 	<?php $this->load->view('layout/css'); ?>
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.8.0/css/bootstrap-datepicker.css">
 </head>
@@ -14,7 +14,7 @@
 	<div class="row bg-img" id="header">
 		<div class="section p-relative tp-30">
 			<div class="col-md-7 font-black">
-				<h1 class="font-bold font-xl">Hastowo AP Travel</h1>
+				<h1 class="font-bold font-xl">Ardi Travel</h1>
 				<p class="font-regular font-md">Pemesanan Tiket Pesawat dan Kapal</p>
 			</div>
 		</div>
@@ -90,7 +90,7 @@
 		<div class="section font-white">
 			<div class="col-md-9">
 				<h2 class="font-lg font-bold">Jasa dan Layanan</h2><br>
-				<p class="font-md font-medium">Hastowo AP Travel adalah jasa yang menjual tiket pesawat maupun kapal antar provinsi maupun pulau.</p><br>
+				<p class="font-md font-medium">Ardi Travel adalah jasa yang menjual tiket pesawat maupun kapal antar provinsi maupun pulau.</p><br>
 				<a>CONTACT US</a>
 			</div>
 		</div>

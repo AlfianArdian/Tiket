@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php $this->load->view('layout/meta'); ?>
-	<title>Tiket Pesawat - Hastowo AP Travel</title>
+	<title>Tiket Pesawat - Ardi Travel</title>
 	<?php $this->load->view('layout/css'); ?>
 </head>
 <body>

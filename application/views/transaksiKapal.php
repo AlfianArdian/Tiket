@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php $this->load->view('layout/meta'); ?>
-	<title>Transaksi - Hastowo AP Travel</title>
+	<title>Transaksi - Ardi Travel</title>
 	<?php $this->load->view('layout/css'); ?>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>

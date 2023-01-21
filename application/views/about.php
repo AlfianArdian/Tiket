@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php $this->load->view('layout/meta'); ?>
-	<title>About - Hastowo AP Travel</title>
+	<title>About - Ardi Travel</title>
 	<?php $this->load->view('layout/css'); ?>
 </head>
 <body>
@@ -18,7 +18,7 @@
     <div class="section" style="margin-bottom: 8%;">
         <div class="mt-inner">
             <div class="alert alert-info">
-                <strong>Hastowo AP Travel</strong> merupakan perusahaan yang bergerak pada pemesanan tiket pesawat dan kapal, sudah banyak tiket terjual mulai dari lion air, sriwijaya, pelni dll.
+                <strong>Ardi Travel</strong> merupakan perusahaan yang bergerak pada pemesanan tiket pesawat dan kapal, sudah banyak tiket terjual mulai dari lion air, sriwijaya, pelni dll.
                 Perusahaan banyak bekerja sama dengan perusahaan lain seperti Garuda dan Lion.
             </div>
             <div class="alert alert-info">

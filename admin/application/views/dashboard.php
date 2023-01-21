@@ -60,7 +60,7 @@
           <div class="row">
             <div class="col-lg-12">
               <div class="chart-box">
-                <h4>Halaman Admin -HastowoAP Travel</h4>
+                <h4>Halaman Admin -Ardi Travel</h4>
                 <div class="chart">
                   <div id="container"></div>
                 </div>

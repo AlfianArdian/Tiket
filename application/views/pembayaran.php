@@ -2,7 +2,7 @@
 <html>
 <head>
     <?php $this->load->view('layout/meta'); ?>
-	<title>Pembayaran -Hastowo AP Travel</title>
+	<title>Pembayaran -Ardi Travel</title>
 	<?php $this->load->view('layout/css'); ?>
 </head>
 <body>
@@ -19,7 +19,7 @@
         <div class="mt-inner">
             <div>
                 <div class="alert alert-info" role="alert">
-                    <a>Terima kasih telah memesan di <b>Hastowo AP Travel</b></a> 
+                    <a>Terima kasih telah memesan di <b>Ardi Travel</b></a> 
                 </div>
                 <div class="row">
                     <div class="col-md-7">
